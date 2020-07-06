@@ -13,18 +13,18 @@
   logoColor: FFFFFF
   projects:
     - https://github.com/Matt-Gleich/Personal-Site
-    - https://github.com/Matt-Gleich/auralite-mobile
     - https://github.com/Matt-Gleich/Hack-Club-GP
+    - https://github.com/Matt-Gleich/auralite-mobile
 - name: Golang
   logo: go
   url: https://golang.org/
   color: 7FD6EA
-  logoColor: FFFFFF
+  logoColor: 000000
   projects:
     - https://github.com/Matt-Gleich/nuke
+    - https://github.com/Matt-Gleich/SimCmd
     - https://github.com/Matt-Gleich/texsch
     - https://github.com/Matt-Gleich/texsep
-    - https://github.com/Matt-Gleich/SimCmd
 - name: Python
   logo: python
   url: https://www.python.org/
@@ -38,28 +38,11 @@
   logo: react
   url: https://reactjs.org/
   color: 61DAFB
-  logoColor: FFFFFF
+  logoColor: 000000
   projects:
     - https://github.com/Matt-Gleich/dynamic-season
     - https://github.com/Matt-Gleich/components
     - https://github.com/Matt-Gleich/jsx
-- name: Kubernetes
-  logo: kubernetes
-  url: https://kubernetes.io/
-  color: 3D6DE6
-  logoColor: FFFFFF
-  projects:
-    - https://github.com/Matt-Gleich/fanboat
-    - https://github.com/Matt-Gleich/kie
-- name: Docker
-  logo: docker
-  url: https://www.docker.com/
-  color: 4FA1EF
-  logoColor: FFFFFF
-  projects:
-    - https://github.com/Matt-Gleich/Dockerfiles
-    - https://github.com/Matt-Gleich/profile_stack
-    - https://github.com/Matt-Gleich/Control-Sense-Hat
 - name: JavaScript
   logo: javascript
   url: https://github.com/Matt-Gleich?tab=repositories&q=&type=&language=javascript
@@ -69,3 +52,20 @@
     - https://github.com/Matt-Gleich/components
     - https://github.com/Matt-Gleich/React-Translator
     - https://github.com/Matt-Gleich/Extreme-Fib-Calc
+- name: Kubernetes
+  logo: kubernetes
+  url: https://kubernetes.io/
+  color: 3D6DE6
+  logoColor: FFFFFF
+  projects:
+    - https://github.com/Matt-Gleich/kie
+    - https://github.com/Matt-Gleich/fanboat
+- name: Docker
+  logo: docker
+  url: https://www.docker.com/
+  color: 4FA1EF
+  logoColor: FFFFFF
+  projects:
+    - https://github.com/Matt-Gleich/Dockerfiles
+    - https://github.com/Matt-Gleich/profile_stack
+    - https://github.com/Matt-Gleich/Control-Sense-Hat
