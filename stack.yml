@@ -13,8 +13,10 @@
   logoColor: FFFFFF
   projects:
     - https://github.com/Matt-Gleich/Personal-Site
-    - https://github.com/Matt-Gleich/Hack-Club-GP
-    - https://github.com/Matt-Gleich/auralite-mobile
+    - url: https://github.com/Matt-Gleich/Hack-Club-GP
+      wip: true
+    - url: https://github.com/Matt-Gleich/auralite-mobile
+      wip: true
 - name: Golang
   logo: go
   url: https://golang.org/
@@ -23,8 +25,10 @@
   projects:
     - https://github.com/Matt-Gleich/nuke
     - https://github.com/Matt-Gleich/SimCmd
-    - https://github.com/Matt-Gleich/texsch
-    - https://github.com/Matt-Gleich/texsep
+    - url: https://github.com/Matt-Gleich/texsch
+      wip: true
+    - url: https://github.com/Matt-Gleich/texsep
+      wip: true
 - name: Python
   logo: python
   url: https://www.python.org/
@@ -59,7 +63,8 @@
   logoColor: FFFFFF
   projects:
     - https://github.com/Matt-Gleich/kie
-    - https://github.com/Matt-Gleich/fanboat
+    - url: https://github.com/Matt-Gleich/fanboat
+      wip: true
 - name: Docker
   logo: docker
   url: https://www.docker.com/
