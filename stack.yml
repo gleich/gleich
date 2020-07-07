@@ -21,7 +21,7 @@
   logo: go
   url: https://golang.org/
   color: 7FD6EA
-  logoColor: 000000
+  logoColor: FFFFFF
   projects:
     - https://github.com/Matt-Gleich/nuke
     - https://github.com/Matt-Gleich/SimCmd
@@ -42,7 +42,7 @@
   logo: react
   url: https://reactjs.org/
   color: 61DAFB
-  logoColor: 000000
+  logoColor: FFFFFF
   projects:
     - https://github.com/Matt-Gleich/dynamic-season
     - https://github.com/Matt-Gleich/components
