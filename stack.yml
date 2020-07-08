@@ -24,7 +24,8 @@
   logoColor: FFFFFF
   projects:
     - https://github.com/Matt-Gleich/nuke
-    - https://github.com/Matt-Gleich/SimCmd
+    - url: https://github.com/Matt-Gleich/SimCmd
+      wip: true
     - url: https://github.com/Matt-Gleich/texsch
       wip: true
     - url: https://github.com/Matt-Gleich/texsep
