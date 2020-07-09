@@ -1,6 +1,9 @@
 name: Profile Stack
 
-on: [push]
+on:
+  push:
+    branches:
+      - master
 
 jobs:
   profile_stack:
