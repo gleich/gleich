@@ -4,7 +4,7 @@
 
 👋🏼 Hello! Ever since I was a little kid I've always been looking to make things, especially when it can help someone or bring someone joy. In January 2019 I started programming on my [FIRST robotics](https://www.firstinspires.org/robotics/frc) team, [501 The PowerKnights](https://github.com/Team-501-The-PowerKnights) as a [computer vision](https://github.com/Team-501-The-PowerKnights/Vision2020) programmer. Since then I have been fascinated with programming, trying to learn as much as possible. Besides programming I enjoy [📷 photography](https://lightroom.adobe.com/shares/71921c41321440ed968321b930b1c7e7), 🚵🏼‍♂️ riding my bike, 🚶🏼‍♂️ hiking, and hanging out with friends. You should check out [@hackclub](https://hackclub.com/)!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matt-Gleich&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matt-Gleich&show_icons=true&hide=["commits","contribs"])
 
 _Not including private repositories_
 
