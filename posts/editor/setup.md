@@ -4,7 +4,7 @@
 
 ---
 
-![My%20VS-Code%20Setup%208de281086ae14cbe97b2c5763673bd75/Screen_Shot_2020-06-28_at_3.46.37_PM.png](My%20VS-Code%20Setup%208de281086ae14cbe97b2c5763673bd75/Screen_Shot_2020-06-28_at_3.46.37_PM.png)
+![My%20VS-Code%20Setup%208de281086ae14cbe97b2c5763673bd75/Screen_Shot_2020-06-28_at_3.46.37_PM.png](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b82106fc-0be6-4813-a6be-f67b41f8371b/Screen_Shot_2020-06-28_at_3.46.37_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200803%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200803T212148Z&X-Amz-Expires=86400&X-Amz-Signature=e57669738fc64c3e343ab16c0d4be82fd30f1a1a9fa6b696652a69f3346bb681&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Screen_Shot_2020-06-28_at_3.46.37_PM.png%22)
 
 Hello! Here is a complete look into my VS-Code setup, everything from extensions to settings. First, let's get started with the basics.
 
