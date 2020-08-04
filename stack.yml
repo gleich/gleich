@@ -2,7 +2,6 @@
   logo: dart
   url: https://dart.dev/
   color: 52C0F2
-  logoColor: FFFFFF
   projects:
     - https://github.com/fluttercommunity/import_sorter
     - https://github.com/Matt-Gleich/local_google_fonts
@@ -10,7 +9,6 @@
   logo: flutter
   url: https://flutter.dev/
   color: 52C0F2
-  logoColor: FFFFFF
   projects:
     - https://github.com/Matt-Gleich/Personal-Site
     - url: https://github.com/Matt-Gleich/Hack-Club-GP
@@ -21,7 +19,6 @@
   logo: go
   url: https://golang.org/
   color: 7FD6EA
-  logoColor: FFFFFF
   projects:
     - https://github.com/Matt-Gleich/nuke
     - https://github.com/Matt-Gleich/statuser
@@ -36,7 +33,6 @@
   logo: python
   url: https://www.python.org/
   color: 3C78A9
-  logoColor: FFFFFF
   projects:
     - https://github.com/Matt-Gleich/profile_stack
     - https://github.com/Matt-Gleich/Contribution-Hat
@@ -50,7 +46,6 @@
   logo: react
   url: https://reactjs.org/
   color: 61DAFB
-  logoColor: FFFFFF
   projects:
     - https://github.com/Matt-Gleich/dynamic-season
     - https://github.com/Matt-Gleich/components
@@ -59,7 +54,6 @@
   logo: javascript
   url: https://github.com/Matt-Gleich?tab=repositories&q=&type=&language=javascript
   color: F1E05A
-  logoColor: FFFFFF
   projects:
     - https://github.com/Matt-Gleich/components
     - https://github.com/Matt-Gleich/React-Translator
@@ -68,7 +62,6 @@
   logo: typescript
   url: https://www.typescriptlang.org
   color: 007ACC
-  logoColor: FFFFFF
   projects:
     - url: https://github.com/Matt-Gleich/emoji-clock
       wip: true
@@ -76,7 +69,6 @@
   logo: kubernetes
   url: https://kubernetes.io/
   color: 3D6DE6
-  logoColor: FFFFFF
   projects:
     - https://github.com/Matt-Gleich/kie
     - url: https://github.com/Matt-Gleich/fanboat
@@ -85,7 +77,6 @@
   logo: docker
   url: https://www.docker.com/
   color: 4FA1EF
-  logoColor: FFFFFF
   projects:
     - https://github.com/Matt-Gleich/Dockerfiles
     - https://github.com/Matt-Gleich/profile_stack
