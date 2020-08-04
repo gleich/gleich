@@ -64,6 +64,14 @@
     - https://github.com/Matt-Gleich/components
     - https://github.com/Matt-Gleich/React-Translator
     - https://github.com/Matt-Gleich/Extreme-Fib-Calc
+- name: TypeScript
+  logo: typescript
+  url: https://www.typescriptlang.org
+  color: 007ACC
+  logoColor: FFFFFF
+  projects:
+    - url: https://github.com/Matt-Gleich/emoji-clock
+      wip: true
 - name: Kubernetes
   logo: kubernetes
   url: https://kubernetes.io/
