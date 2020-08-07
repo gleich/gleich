@@ -29,6 +29,8 @@
       wip: true
     - url: https://github.com/Matt-Gleich/texsep
       wip: true
+    - url: https://github.com/Matt-Gleich/eagleye
+      wip: true
 - name: Python
   logo: python
   url: https://www.python.org/
