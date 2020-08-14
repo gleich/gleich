@@ -8,7 +8,7 @@ Today is my last day at Bottomline Technologies as an intern on the Cloud Automa
 
 ### 🦊 GitLab
 
-As Bottomline technologies switches to GitLab for their code storage I helped set up a bunch of its infrastructure. I accomplished this with tools such as puppet and grafana.
+As Bottomline Technologies switches to GitLab for their code storage I helped set up a bunch of its infrastructure. I accomplished this with tools such as `Puppet` and `Grafana`.
 
 ### 🤝 Innersource
 
@@ -16,7 +16,7 @@ Utilizing the large amount of open-source experience that I have I was able to h
 
 ### 🚀 Open-source
 
-As part of an innovation challenge me and a few other interns put together a presentation on what open source at Bottomline could look like.
+As part of an innovation challenge a few other interns and I put together an interesting presentation on what open source at Bottomline could look like.
 
 ### 🤖 Release Automation
 
