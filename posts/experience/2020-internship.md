@@ -2,7 +2,7 @@
 
 _Written Friday, August 14th, 2020_
 
-Today is my last day at Bottomline Technologies as an intern on the Cloud Automation team. Throughout the experience, I got to meet some really talented people and work on some really cool stuff. Although the experience was remote I was still able to make connections with the other interns' thanks to the amazing work put out by Bottomline to support the intern program.
+Today is my last day at [Bottomline Technologies](https://www.bottomline.com/) as an intern on the Cloud Automation team. Throughout the experience, I got to meet some really talented people and work on some really cool stuff. Although the experience was remote I was still able to make connections with the other interns' thanks to the amazing work put out by Bottomline to support the intern program.
 
 ## ✨ What I worked on
 
