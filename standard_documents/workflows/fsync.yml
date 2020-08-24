@@ -1,0 +1,19 @@
+name: fsync
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '*/10 * * * *'
+
+jobs:
+  file_sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      - name: gh_fsync
+        uses: Matt-Gleich/gh_fsync@master
+        with:
+          PERSONAL_ACCESS_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
