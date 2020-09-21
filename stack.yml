@@ -53,8 +53,7 @@
   color: 61DAFB
   projects:
     - https://github.com/Matt-Gleich/dynamic-season
-    - https://github.com/Matt-Gleich/components
-    - https://github.com/Matt-Gleich/jsx
+    - https://github.com/Matt-Gleich/site-v2
 - name: JavaScript
   logo: javascript
   url: https://github.com/Matt-Gleich?tab=repositories&q=&type=&language=javascript
@@ -63,6 +62,7 @@
     - https://github.com/Matt-Gleich/components
     - https://github.com/Matt-Gleich/React-Translator
     - https://github.com/Matt-Gleich/Extreme-Fib-Calc
+    - https://github.com/Matt-Gleich/site-v2
 - name: TypeScript
   logo: typescript
   url: https://www.typescriptlang.org
