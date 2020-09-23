@@ -5,6 +5,7 @@
   projects:
     - https://github.com/fluttercommunity/import_sorter
     - https://github.com/Matt-Gleich/local_google_fonts
+    - https://github.com/banurapp/geist_flutter
 - name: Flutter
   logo: flutter
   url: https://flutter.dev/
@@ -26,11 +27,9 @@
     - https://github.com/Matt-Gleich/statuser
     - https://github.com/Matt-Gleich/desktop
     - https://github.com/Matt-Gleich/new_release
+    - https://github.com/Matt-Gleich/texsch
+    - https://github.com/Matt-Gleich/texsep
     - url: https://github.com/Matt-Gleich/SimCmd
-      wip: true
-    - url: https://github.com/Matt-Gleich/texsch
-      wip: true
-    - url: https://github.com/Matt-Gleich/texsep
       wip: true
     - url: https://github.com/Matt-Gleich/eagleye
       wip: true
@@ -52,17 +51,18 @@
   url: https://reactjs.org/
   color: 61DAFB
   projects:
+    - url: https://github.com/Matt-Gleich/site-v2
+      wip: true
     - https://github.com/Matt-Gleich/dynamic-season
-    - https://github.com/Matt-Gleich/site-v2
 - name: JavaScript
   logo: javascript
   url: https://github.com/Matt-Gleich?tab=repositories&q=&type=&language=javascript
   color: F1E05A
   projects:
+    - https://github.com/Matt-Gleich/site-v2
     - https://github.com/Matt-Gleich/components
     - https://github.com/Matt-Gleich/React-Translator
     - https://github.com/Matt-Gleich/Extreme-Fib-Calc
-    - https://github.com/Matt-Gleich/site-v2
 - name: TypeScript
   logo: typescript
   url: https://www.typescriptlang.org
@@ -83,6 +83,7 @@
   url: https://www.docker.com/
   color: 4FA1EF
   projects:
+    - https://github.com/Matt-Gleich/gh_fsync
     - https://github.com/Matt-Gleich/Dockerfiles
     - https://github.com/Matt-Gleich/profile_stack
     - https://github.com/Matt-Gleich/Control-Sense-Hat
