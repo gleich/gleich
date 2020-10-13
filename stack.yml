@@ -12,9 +12,8 @@
   color: 52C0F2
   projects:
     - https://github.com/Matt-Gleich/Personal-Site
+    - https://github.com/banurapp/geist_flutter
     - url: https://github.com/Matt-Gleich/Hack-Club-GP
-      wip: true
-    - url: https://github.com/Matt-Gleich/auralite-mobile
       wip: true
 - name: Golang
   logo: go
@@ -29,9 +28,9 @@
     - https://github.com/Matt-Gleich/new_release
     - https://github.com/Matt-Gleich/texsch
     - https://github.com/Matt-Gleich/texsep
+    - https://github.com/Matt-Gleich/contrihat
+    - https://github.com/hackclub/awesome_hackclub_auto
     - url: https://github.com/Matt-Gleich/SimCmd
-      wip: true
-    - url: https://github.com/Matt-Gleich/eagleye
       wip: true
     - url: https://github.com/Matt-Gleich/fgh
       wip: true
@@ -61,7 +60,8 @@
   url: https://github.com/Matt-Gleich?tab=repositories&q=&type=&language=javascript
   color: F1E05A
   projects:
-    - https://github.com/Matt-Gleich/site-v2
+    - url: https://github.com/Matt-Gleich/site-v2
+      wip: true
     - https://github.com/Matt-Gleich/components
     - https://github.com/Matt-Gleich/React-Translator
     - https://github.com/Matt-Gleich/Extreme-Fib-Calc
@@ -78,8 +78,6 @@
   color: 3D6DE6
   projects:
     - https://github.com/Matt-Gleich/kie
-    - url: https://github.com/Matt-Gleich/fanboat
-      wip: true
 - name: Docker
   logo: docker
   url: https://www.docker.com/
