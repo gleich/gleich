@@ -11,7 +11,7 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=Matt-Gleich&show_icons=true&title_color=37B256&icon_color=37B256&count_private=true&hide_title=true&show_owner=true&hide_border=true&hide=commits,contribs">
     <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=Matt-Gleich&theme=monokai&row=2&column=3">
+    <img src="https://github-profile-trophy.vercel.app/?username=Matt-Gleich&theme=onedark&row=2&column=3">
     <br>
     Not including Private Repositories
 </div>
