@@ -20,6 +20,7 @@
   url: https://golang.org/
   color: 7FD6EA
   projects:
+    - https://github.com/Matt-Gleich/fgh
     - https://github.com/Matt-Gleich/gh_fsync
     - https://github.com/Matt-Gleich/nuke
     - https://github.com/Matt-Gleich/logoru
@@ -31,8 +32,6 @@
     - https://github.com/Matt-Gleich/contrihat
     - https://github.com/hackclub/awesome_hackclub_auto
     - url: https://github.com/Matt-Gleich/SimCmd
-      wip: true
-    - url: https://github.com/Matt-Gleich/fgh
       wip: true
 - name: Python
   logo: python
