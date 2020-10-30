@@ -1,0 +1,43 @@
+[{
+		"name": "d",
+		"title": "Docker Hub",
+		"description": "My open-source docker images",
+		"public": true,
+		"url": "https://hub.docker.com/u/mattgleich"
+	},
+	{
+		"name": "g",
+		"title": "GitHub",
+		"description": "All of my open-source and personal work",
+		"public": true,
+		"url": "https://github.com/Matt-Gleich"
+	},
+	{
+		"name": "l",
+		"title": "Linkedin",
+		"description": "n/a",
+		"public": true,
+		"url": "https://www.linkedin.com/in/matthew-gleich"
+    },
+    {
+		"name": "s",
+		"title": "Strava",
+		"description": "Running and Cycling",
+		"public": true,
+		"url": "https://www.strava.com/athletes/30124266"
+    },
+    {
+		"name": "t",
+		"title": "Twitter",
+		"description": "Home of my crappy tweets",
+		"public": true,
+		"url": "https://twitter.com/MattGleich"
+    },
+    {
+		"name": "w",
+		"title": "WakaTime",
+		"description": "Programming statistics",
+		"public": true,
+		"url": "https://wakatime.com/@Matthew_Gleich"
+    }
+]
