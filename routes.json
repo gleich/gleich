@@ -39,5 +39,19 @@
 		"description": "Programming statistics",
 		"public": true,
 		"url": "https://wakatime.com/@Matthew_Gleich"
-    }
+	},
+	{
+		"name": "r",
+		"title": "Reddit",
+		"description": "n/a",
+		"public": true,
+		"url": "https://www.reddit.com/user/MGleich"
+	},
+	{
+		"name": "p",
+		"title": "Product Hunt",
+		"description": "n/a",
+		"public": true,
+		"url": "https://www.producthunt.com/@mattgleich"
+	}
 ]
