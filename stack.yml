@@ -1,20 +1,3 @@
-- name: Dart
-  logo: dart
-  url: https://dart.dev/
-  color: 52C0F2
-  projects:
-    - https://github.com/fluttercommunity/import_sorter
-    - https://github.com/Matt-Gleich/local_google_fonts
-    - https://github.com/banurapp/geist_flutter
-- name: Flutter
-  logo: flutter
-  url: https://flutter.dev/
-  color: 52C0F2
-  projects:
-    - https://github.com/Matt-Gleich/Personal-Site
-    - https://github.com/banurapp/geist_flutter
-    - url: https://github.com/Matt-Gleich/Hack-Club-GP
-      wip: true
 - name: Golang
   logo: go
   url: https://golang.org/
@@ -46,6 +29,30 @@
     - https://github.com/Matt-Gleich/Photo-Sort
     - https://github.com/Team-501-The-PowerKnights/Vision2020
     - https://github.com/Team-501-The-PowerKnights/Powerknights-Slack-Bot
+- name: Rust
+  logo: rust
+  url: https://www.rust-lang.org/
+  color: DEA584
+  projects:
+    - url: https://github.com/Matt-Gleich/wakavis
+      wip: true
+- name: Dart
+  logo: dart
+  url: https://dart.dev/
+  color: 52C0F2
+  projects:
+    - https://github.com/fluttercommunity/import_sorter
+    - https://github.com/Matt-Gleich/local_google_fonts
+    - https://github.com/banurapp/geist_flutter
+- name: Flutter
+  logo: flutter
+  url: https://flutter.dev/
+  color: 52C0F2
+  projects:
+    - https://github.com/Matt-Gleich/Personal-Site
+    - https://github.com/banurapp/geist_flutter
+    - url: https://github.com/Matt-Gleich/Hack-Club-GP
+      wip: true
 - name: React
   logo: react
   url: https://reactjs.org/
@@ -71,12 +78,6 @@
   projects:
     - url: https://github.com/Matt-Gleich/emoji-clock
       wip: true
-- name: Kubernetes
-  logo: kubernetes
-  url: https://kubernetes.io/
-  color: 3D6DE6
-  projects:
-    - https://github.com/Matt-Gleich/kie
 - name: Docker
   logo: docker
   url: https://www.docker.com/
