@@ -16,6 +16,7 @@
     - https://github.com/hackclub/awesome_hackclub_auto
     - url: https://github.com/Matt-Gleich/SimCmd
       wip: true
+
 - name: Python
   logo: python
   url: https://www.python.org/
@@ -36,6 +37,7 @@
   projects:
     - url: https://github.com/Matt-Gleich/wakavis
       wip: true
+
 - name: Dart
   logo: dart
   url: https://dart.dev/
@@ -44,6 +46,7 @@
     - https://github.com/fluttercommunity/import_sorter
     - https://github.com/Matt-Gleich/local_google_fonts
     - https://github.com/banurapp/geist_flutter
+
 - name: Flutter
   logo: flutter
   url: https://flutter.dev/
@@ -53,6 +56,7 @@
     - https://github.com/banurapp/geist_flutter
     - url: https://github.com/Matt-Gleich/Hack-Club-GP
       wip: true
+
 - name: React
   logo: react
   url: https://reactjs.org/
@@ -61,6 +65,7 @@
     - url: https://github.com/Matt-Gleich/site-v2
       wip: true
     - https://github.com/Matt-Gleich/dynamic-season
+
 - name: JavaScript
   logo: javascript
   url: https://github.com/Matt-Gleich?tab=repositories&q=&type=&language=javascript
@@ -71,13 +76,7 @@
     - https://github.com/Matt-Gleich/components
     - https://github.com/Matt-Gleich/React-Translator
     - https://github.com/Matt-Gleich/Extreme-Fib-Calc
-- name: TypeScript
-  logo: typescript
-  url: https://www.typescriptlang.org
-  color: 007ACC
-  projects:
-    - url: https://github.com/Matt-Gleich/emoji-clock
-      wip: true
+
 - name: Docker
   logo: docker
   url: https://www.docker.com/
