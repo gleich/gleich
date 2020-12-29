@@ -32,6 +32,13 @@
     - https://github.com/Matt-Gleich/Photo-Sort
     - https://github.com/Team-501-The-PowerKnights/Vision2020
     - https://github.com/Team-501-The-PowerKnights/Powerknights-Slack-Bot
+- name: Swift
+  logo: swift
+  url: https://swift.org/
+  color: E45530
+  projects:
+    - url: https://github.com/Magnesium-Software/NukeApp
+      wip: true
 - name: Rust
   logo: rust
   url: https://www.rust-lang.org/
