@@ -16,9 +16,8 @@
     - https://github.com/Matt-Gleich/clockhat
     - https://github.com/Matt-Gleich/cihat
     - https://github.com/Matt-Gleich/ctree
+    - https://github.com/Matt-Gleich/lumber
     - https://github.com/hackclub/awesome_hackclub_auto
-    - url: https://github.com/Matt-Gleich/SimCmd
-      wip: true
 
 - name: Python
   logo: python
