@@ -11,13 +11,13 @@
     - https://github.com/Matt-Gleich/desktop
     - https://github.com/Matt-Gleich/new_release
     - https://github.com/Matt-Gleich/texsch
-    - https://github.com/Matt-Gleich/texsep
     - https://github.com/Matt-Gleich/contrihat
     - https://github.com/Matt-Gleich/clockhat
     - https://github.com/Matt-Gleich/cihat
     - https://github.com/Matt-Gleich/ctree
     - https://github.com/Matt-Gleich/lumber
     - https://github.com/hackclub/awesome_hackclub_auto
+    - https://github.com/Matt-Gleich/api
 
 - name: Python
   logo: python
@@ -32,20 +32,13 @@
     - https://github.com/Matt-Gleich/Photo-Sort
     - https://github.com/Team-501-The-PowerKnights/Vision2020
     - https://github.com/Team-501-The-PowerKnights/Powerknights-Slack-Bot
+
 - name: Swift
   logo: swift
   url: https://swift.org/
   color: E45530
   projects:
-    - url: https://github.com/Magnesium-Software/NukeApp
-      wip: true
-- name: Rust
-  logo: rust
-  url: https://www.rust-lang.org/
-  color: DEA584
-  projects:
-    - url: https://github.com/Matt-Gleich/wakavis
-      wip: true
+    - https://github.com/Magnesium-Software/NukeApp
 
 - name: Dart
   logo: dart
@@ -91,6 +84,7 @@
   url: https://www.docker.com/
   color: 4FA1EF
   projects:
+    - https://github.com/Matt-Gleich/api
     - https://github.com/Matt-Gleich/gh_fsync
     - https://github.com/Matt-Gleich/Dockerfiles
     - https://github.com/Matt-Gleich/profile_stack
