@@ -1,0 +1,28 @@
+name: Update Routes
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  update_routes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v1
+        with:
+          python-version: '3.9'
+      - uses: snok/install-poetry@v1.1.1
+      - name: Install dependencies
+        run: |
+          cd update
+          poetry config virtualenvs.create false
+          poetry install --no-root -n
+      - name: Run script
+        run: poetry run python3 update_routes.py
+      - name: Commit and push changes
+        run: |
+          git add .
+          git commit -m "⚙️ Update routes"
+          git push
