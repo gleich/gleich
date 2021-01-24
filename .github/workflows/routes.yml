@@ -25,6 +25,8 @@ jobs:
           poetry run python3 update_routes.py
       - name: Commit and push changes
         run: |
+          git config --global user.email "email@mattglei.ch"
+          git config --global user.name "Matthew Gleich"
           git add .
           git commit -m "⚙️ Update routes"
           git push
