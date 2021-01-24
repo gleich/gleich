@@ -20,7 +20,9 @@ jobs:
           poetry config virtualenvs.create false
           poetry install --no-root -n
       - name: Run script
-        run: poetry run python3 update_routes.py
+        run: |
+          cd update
+          poetry run python3 update_routes.py
       - name: Commit and push changes
         run: |
           git add .
