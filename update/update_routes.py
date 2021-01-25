@@ -1,6 +1,13 @@
 import requests
 import json
 from loguru import logger
+import os
+
+os.chdir("..")
+file_name = "routes.json"
+
+with open(file_name) as original_file:
+    original_content = original_file.read()
 
 url = "https://gql.api.mattglei.ch"
 payload = '{"query":"{\\n  socials {\\n    github {\\n      username\\n      description\\n      url\\n    }\\n    twitter {\\n      username\\n      description\\n      url\\n    }\\n    dockerHub {\\n      username\\n      description\\n      url\\n    }\\n    linkedin {\\n      username\\n      description\\n      url\\n    }\\n    productHunt {\\n      username\\n      description\\n      url\\n    }\\n    strava {\\n      username\\n      description\\n      url\\n    }\\n    wakatime {\\n      username\\n      description\\n      url\\n    }\\n    reddit {\\n      username\\n      description\\n      url\\n    }\\n  }\\n}","variables":{}}'
@@ -13,7 +20,7 @@ if not response.ok:
 
 data = response.json()["data"]["socials"]
 
-with open("../routes.json", "w") as routes_file:
+with open(file_name, "w") as routes_file:
     json.dump(
         [
             {
@@ -75,5 +82,16 @@ with open("../routes.json", "w") as routes_file:
         ],
         routes_file,
     )
+logger.success(f"Wrote to {file_name}")
 
-logger.success("Wrote to ../routes.json")
+with open(file_name) as updated_file:
+    updated = original_content == updated_file.read()
+
+if updated:
+    logger.info("File has been updated. Committing the changes")
+    os.system('git config --global user.email "email@mattglei.ch"')
+    os.system('git config --global user.name "Matthew Gleich"')
+    os.system("git add .")
+    os.system('git commit -m "⚙️ Update routes"')
+    os.system("git push")
+    logger.success("Pushed the latest changes!")
