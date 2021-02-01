@@ -70,6 +70,16 @@
     - https://github.com/Matt-Gleich/React-Translator
     - https://github.com/Matt-Gleich/Extreme-Fib-Calc
 
+- name: GraphQL
+  logo: graphql
+  url: https://graphql.org
+  color: '000000'
+  projects:
+    - https://github.com/Matt-Gleich/api
+    - https://github.com/Matt-Gleich/fgh
+    - https://github.com/Matt-Gleich/contrihat
+    - https://github.com/Matt-Gleich/cihat
+
 - name: Docker
   logo: docker
   url: https://www.docker.com/
