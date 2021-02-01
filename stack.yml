@@ -59,15 +59,6 @@
     - url: https://github.com/Matt-Gleich/Hack-Club-GP
       wip: true
 
-- name: React
-  logo: react
-  url: https://reactjs.org/
-  color: 61DAFB
-  projects:
-    - url: https://github.com/Matt-Gleich/site-v2
-      wip: true
-    - https://github.com/Matt-Gleich/dynamic-season
-
 - name: JavaScript
   logo: javascript
   url: https://github.com/Matt-Gleich?tab=repositories&q=&type=&language=javascript
