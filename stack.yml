@@ -80,6 +80,14 @@
     - https://github.com/Matt-Gleich/contrihat
     - https://github.com/Matt-Gleich/cihat
 
+- name: PostgreSQL
+  logo: postgresql
+  url: https://postgres.org
+  color: '336791'
+  projects:
+    - https://github.com/Matt-Gleich/api
+    - https://github.com/Matt-Gleich/github_scraper
+
 - name: Docker
   logo: docker
   url: https://www.docker.com/
