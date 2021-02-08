@@ -18,6 +18,7 @@
     - https://github.com/Matt-Gleich/lumber
     - https://github.com/hackclub/awesome_hackclub_auto
     - https://github.com/Matt-Gleich/api
+    - https://github.com/Matt-Gleich/github_scraper
 
 - name: Python
   logo: python
@@ -79,6 +80,7 @@
     - https://github.com/Matt-Gleich/fgh
     - https://github.com/Matt-Gleich/contrihat
     - https://github.com/Matt-Gleich/cihat
+    - https://github.com/Matt-Gleich/github_scraper
 
 - name: PostgreSQL
   logo: postgresql
