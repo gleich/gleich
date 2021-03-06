@@ -10,7 +10,7 @@ with open(file_name) as original_file:
     original_content = original_file.read()
 
 url = "https://gql.api.mattglei.ch"
-payload = '{"query":"{\\n  socials {\\n    github {\\n      username\\n      description\\n      url\\n    }\\n    twitter {\\n      username\\n      description\\n      url\\n    }\\n    dockerHub {\\n      username\\n      description\\n      url\\n    }\\n    linkedin {\\n      username\\n      description\\n      url\\n    }\\n    productHunt {\\n      username\\n      description\\n      url\\n    }\\n    strava {\\n      username\\n      description\\n      url\\n    }\\n    wakatime {\\n      username\\n      description\\n      url\\n    }\\n    reddit {\\n      username\\n      description\\n      url\\n    }\\n  }\\n}","variables":{}}'
+payload = '{"query":"{\\n  socials {\\n    github {\\n      username\\n      description\\n      url\\n    }\\n    twitter {\\n      username\\n      description\\n      url\\n    }\\n    dockerhub {\\n      username\\n      description\\n      url\\n    }\\n    linkedin {\\n      username\\n      description\\n      url\\n    }\\n    producthunt {\\n      username\\n      description\\n      url\\n    }\\n    strava {\\n      username\\n      description\\n      url\\n    }\\n    wakatime {\\n      username\\n      description\\n      url\\n    }\\n    reddit {\\n      username\\n      description\\n      url\\n    }\\n  }\\n}","variables":{}}'
 headers = {"Content-Type": "application/json"}
 
 response = requests.request("POST", url, headers=headers, data=payload)
@@ -26,9 +26,9 @@ with open(file_name, "w") as routes_file:
             {
                 "name": "d",
                 "title": "Docker Hub",
-                "description": data["dockerHub"]["description"],
+                "description": data["dockerhub"]["description"],
                 "public": True,
-                "url": data["dockerHub"]["url"],
+                "url": data["dockerhub"]["url"],
             },
             {
                 "name": "g",
@@ -75,9 +75,9 @@ with open(file_name, "w") as routes_file:
             {
                 "name": "p",
                 "title": "Product Hunt",
-                "description": data["productHunt"]["description"],
+                "description": data["producthunt"]["description"],
                 "public": True,
-                "url": data["productHunt"]["url"],
+                "url": data["producthunt"]["url"],
             },
         ],
         routes_file,
