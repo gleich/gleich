@@ -3,60 +3,60 @@
   url: https://golang.org/
   color: 7FD6EA
   projects:
-    - https://github.com/Matt-Gleich/fgh
-    - https://github.com/Matt-Gleich/gh_fsync
-    - https://github.com/Matt-Gleich/nuke
-    - https://github.com/Matt-Gleich/logoru
-    - https://github.com/Matt-Gleich/statuser
-    - https://github.com/Matt-Gleich/desktop
-    - https://github.com/Matt-Gleich/new_release
-    - https://github.com/Matt-Gleich/texsch
-    - https://github.com/Matt-Gleich/contrihat
-    - https://github.com/Matt-Gleich/clockhat
-    - https://github.com/Matt-Gleich/cihat
-    - https://github.com/Matt-Gleich/ctree
-    - https://github.com/Matt-Gleich/lumber
-    - https://github.com/hackclub/awesome_hackclub_auto
-    - https://github.com/Matt-Gleich/api
-    - https://github.com/Matt-Gleich/github_scraper
+    - url: https://github.com/Matt-Gleich/fgh
+    - url: https://github.com/Matt-Gleich/gh_fsync
+    - url: https://github.com/Matt-Gleich/nuke
+    - url: https://github.com/Matt-Gleich/logoru
+    - url: https://github.com/Matt-Gleich/statuser
+    - url: https://github.com/Matt-Gleich/desktop
+    - url: https://github.com/Matt-Gleich/new_release
+    - url: https://github.com/Matt-Gleich/texsch
+    - url: https://github.com/Matt-Gleich/contrihat
+    - url: https://github.com/Matt-Gleich/clockhat
+    - url: https://github.com/Matt-Gleich/cihat
+    - url: https://github.com/Matt-Gleich/ctree
+    - url: https://github.com/Matt-Gleich/lumber
+    - url: https://github.com/hackclub/awesome_hackclub_auto
+    - url: https://github.com/Matt-Gleich/api
+    - url: https://github.com/Matt-Gleich/github_scraper
 
 - name: Python
   logo: python
   url: https://www.python.org/
   color: 3C78A9
   projects:
-    - https://github.com/Matt-Gleich/profile_stack
-    - https://github.com/Matt-Gleich/Contribution-Hat
-    - https://github.com/Matt-Gleich/RPi-Status
-    - https://github.com/Matt-Gleich/Doc-Dockerfiles
-    - https://github.com/Matt-Gleich/Quantum-Flip
-    - https://github.com/Matt-Gleich/Photo-Sort
-    - https://github.com/Team-501-The-PowerKnights/Vision2020
-    - https://github.com/Team-501-The-PowerKnights/Powerknights-Slack-Bot
+    - url: https://github.com/Matt-Gleich/profile_stack
+    - url: https://github.com/Matt-Gleich/Contribution-Hat
+    - url: https://github.com/Matt-Gleich/RPi-Status
+    - url: https://github.com/Matt-Gleich/Doc-Dockerfiles
+    - url: https://github.com/Matt-Gleich/Quantum-Flip
+    - url: https://github.com/Matt-Gleich/Photo-Sort
+    - url: https://github.com/Team-501-The-PowerKnights/Vision2020
+    - url: https://github.com/Team-501-The-PowerKnights/Powerknights-Slack-Bot
 
 - name: Swift
   logo: swift
   url: https://swift.org/
   color: E45530
   projects:
-    - https://github.com/Magnesium-Software/NukeApp
+    - url: https://github.com/Magnesium-Software/NukeApp
 
 - name: Dart
   logo: dart
   url: https://dart.dev/
   color: 52C0F2
   projects:
-    - https://github.com/fluttercommunity/import_sorter
-    - https://github.com/Matt-Gleich/local_google_fonts
-    - https://github.com/banurapp/geist_flutter
+    - url: https://github.com/fluttercommunity/import_sorter
+    - url: https://github.com/Matt-Gleich/local_google_fonts
+    - url: https://github.com/banurapp/geist_flutter
 
 - name: Flutter
   logo: flutter
   url: https://flutter.dev/
   color: 52C0F2
   projects:
-    - https://github.com/Matt-Gleich/Personal-Site
-    - https://github.com/banurapp/geist_flutter
+    - url: https://github.com/Matt-Gleich/Personal-Site
+    - url: https://github.com/banurapp/geist_flutter
     - url: https://github.com/Matt-Gleich/Hack-Club-GP
       wip: true
 
@@ -67,36 +67,36 @@
   projects:
     - url: https://github.com/Matt-Gleich/site-v2
       wip: true
-    - https://github.com/Matt-Gleich/components
-    - https://github.com/Matt-Gleich/React-Translator
-    - https://github.com/Matt-Gleich/Extreme-Fib-Calc
+    - url: https://github.com/Matt-Gleich/components
+    - url: https://github.com/Matt-Gleich/React-Translator
+    - url: https://github.com/Matt-Gleich/Extreme-Fib-Calc
 
 - name: GraphQL
   logo: graphql
   url: https://graphql.org
   color: '000000'
   projects:
-    - https://github.com/Matt-Gleich/api
-    - https://github.com/Matt-Gleich/fgh
-    - https://github.com/Matt-Gleich/contrihat
-    - https://github.com/Matt-Gleich/cihat
-    - https://github.com/Matt-Gleich/github_scraper
+    - url: https://github.com/Matt-Gleich/api
+    - url: https://github.com/Matt-Gleich/fgh
+    - url: https://github.com/Matt-Gleich/contrihat
+    - url: https://github.com/Matt-Gleich/cihat
+    - url: https://github.com/Matt-Gleich/github_scraper
 
 - name: PostgreSQL
   logo: postgresql
   url: https://postgres.org
   color: '336791'
   projects:
-    - https://github.com/Matt-Gleich/api
-    - https://github.com/Matt-Gleich/github_scraper
+    - url: https://github.com/Matt-Gleich/api
+    - url: https://github.com/Matt-Gleich/github_scraper
 
 - name: Docker
   logo: docker
   url: https://www.docker.com/
   color: 4FA1EF
   projects:
-    - https://github.com/Matt-Gleich/api
-    - https://github.com/Matt-Gleich/gh_fsync
-    - https://github.com/Matt-Gleich/Dockerfiles
-    - https://github.com/Matt-Gleich/profile_stack
-    - https://github.com/Matt-Gleich/Control-Sense-Hat
+    - url: https://github.com/Matt-Gleich/api
+    - url: https://github.com/Matt-Gleich/gh_fsync
+    - url: https://github.com/Matt-Gleich/Dockerfiles
+    - url: https://github.com/Matt-Gleich/profile_stack
+    - url: https://github.com/Matt-Gleich/Control-Sense-Hat

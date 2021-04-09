@@ -1,4 +1,4 @@
-name: Profile Stack
+name: stack
 
 on:
   push:
