@@ -1,7 +1,7 @@
 - name: Golang
   logo: go
   url: https://golang.org/
-  color: 7FD6EA
+  color: '#7FD6EA'
   projects:
     - url: https://github.com/Matt-Gleich/fgh
     - url: https://github.com/Matt-Gleich/gh_fsync
@@ -23,9 +23,8 @@
 - name: Python
   logo: python
   url: https://www.python.org/
-  color: 3C78A9
+  color: '#3C78A9'
   projects:
-    - url: https://github.com/Matt-Gleich/profile_stack
     - url: https://github.com/Matt-Gleich/Contribution-Hat
     - url: https://github.com/Matt-Gleich/RPi-Status
     - url: https://github.com/Matt-Gleich/Doc-Dockerfiles
@@ -34,18 +33,12 @@
     - url: https://github.com/Team-501-The-PowerKnights/Vision2020
     - url: https://github.com/Team-501-The-PowerKnights/Powerknights-Slack-Bot
 
-- name: Swift
-  logo: swift
-  url: https://swift.org/
-  color: E45530
-  projects:
-    - url: https://github.com/Magnesium-Software/NukeApp
-
 - name: Dart
   logo: dart
   url: https://dart.dev/
-  color: 52C0F2
+  color: '#52C0F2'
   projects:
+    - url: https://github.com/Matt-Gleich/Personal-Site-v1
     - url: https://github.com/fluttercommunity/import_sorter
     - url: https://github.com/Matt-Gleich/local_google_fonts
     - url: https://github.com/banurapp/geist_flutter
@@ -53,28 +46,44 @@
 - name: Flutter
   logo: flutter
   url: https://flutter.dev/
-  color: 52C0F2
+  color: '#52C0F2'
   projects:
     - url: https://github.com/Matt-Gleich/Personal-Site
     - url: https://github.com/banurapp/geist_flutter
-    - url: https://github.com/Matt-Gleich/Hack-Club-GP
+    - url: https://github.com/Matt-Gleich/File-Sort
+
+- name: Rust
+  logo: rust
+  url: https://www.rust-lang.org/
+  color: '#DEA584'
+  projects:
+    - url: https://github.com/Matt-Gleich/profile_stack
+    - url: https://github.com/Matt-Gleich/auto-shorty
+    - url: https://github.com/Matt-Gleich/rust_template
+    - url: https://github.com/Matt-Gleich/full-tilt-sort
+    - url: https://github.com/Matt-Gleich/clueprog
+      wip: true
+    - url: https://github.com/Matt-Gleich/wakavis
       wip: true
 
-- name: JavaScript
-  logo: javascript
-  url: https://github.com/Matt-Gleich?tab=repositories&q=&type=&language=javascript
-  color: F1E05A
+- name: JS/TS
+  logo: typescript
+  url: https://www.typescriptlang.org/
+  color: '#3878C6'
   projects:
     - url: https://github.com/Matt-Gleich/site-v2
+    - url: https://github.com/Matt-Gleich/texsch-code
+    - url: https://github.com/Matt-Gleich/gleich
       wip: true
-    - url: https://github.com/Matt-Gleich/components
+    - url: https://github.com/Matt-Gleich/emoji-clock
+      wip: true
     - url: https://github.com/Matt-Gleich/React-Translator
     - url: https://github.com/Matt-Gleich/Extreme-Fib-Calc
 
 - name: GraphQL
   logo: graphql
   url: https://graphql.org
-  color: '000000'
+  color: '#000000'
   projects:
     - url: https://github.com/Matt-Gleich/api
     - url: https://github.com/Matt-Gleich/fgh
@@ -85,15 +94,22 @@
 - name: PostgreSQL
   logo: postgresql
   url: https://postgres.org
-  color: '336791'
+  color: '#336791'
   projects:
     - url: https://github.com/Matt-Gleich/api
     - url: https://github.com/Matt-Gleich/github_scraper
 
+- name: LaTeX
+  logo: latex
+  url: https://www.latex-project.org/
+  color: '#3D6117'
+  projects:
+    - url: https://github.com/Matt-Gleich/explain-math
+
 - name: Docker
   logo: docker
   url: https://www.docker.com/
-  color: 4FA1EF
+  color: '#4FA1EF'
   projects:
     - url: https://github.com/Matt-Gleich/api
     - url: https://github.com/Matt-Gleich/gh_fsync
