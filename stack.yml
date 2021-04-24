@@ -72,7 +72,7 @@
   url: https://www.typescriptlang.org/
   color: '#3878C6'
   projects:
-    - url: https://github.com/Matt-Gleich/site-v2
+    - url: https://github.com/Matt-Gleich/website
     - url: https://github.com/Matt-Gleich/texsch-code
     - url: https://github.com/Matt-Gleich/gleich
       wip: true
