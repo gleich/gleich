@@ -1,7 +1,7 @@
 - name: Golang
   logo: go
   url: https://golang.org/
-  color: '#7FD6EA'
+  color: "#7FD6EA"
   projects:
     - url: https://github.com/Matt-Gleich/fgh
     - url: https://github.com/Matt-Gleich/gh_fsync
@@ -23,7 +23,7 @@
 - name: Python
   logo: python
   url: https://www.python.org/
-  color: '#3C78A9'
+  color: "#3C78A9"
   projects:
     - url: https://github.com/Matt-Gleich/Contribution-Hat
     - url: https://github.com/Matt-Gleich/RPi-Status
@@ -36,7 +36,7 @@
 - name: Dart
   logo: dart
   url: https://dart.dev/
-  color: '#52C0F2'
+  color: "#52C0F2"
   projects:
     - url: https://github.com/Matt-Gleich/Personal-Site-v1
     - url: https://github.com/fluttercommunity/import_sorter
@@ -46,7 +46,7 @@
 - name: Flutter
   logo: flutter
   url: https://flutter.dev/
-  color: '#52C0F2'
+  color: "#52C0F2"
   projects:
     - url: https://github.com/Matt-Gleich/Personal-Site
     - url: https://github.com/banurapp/geist_flutter
@@ -55,7 +55,7 @@
 - name: Rust
   logo: rust
   url: https://www.rust-lang.org/
-  color: '#DEA584'
+  color: "#DEA584"
   projects:
     - url: https://github.com/Matt-Gleich/profile_stack
     - url: https://github.com/Matt-Gleich/auto-shorty
@@ -71,7 +71,7 @@
 - name: JS/TS
   logo: typescript
   url: https://www.typescriptlang.org/
-  color: '#3878C6'
+  color: "#3878C6"
   projects:
     - url: https://github.com/Matt-Gleich/website
     - url: https://github.com/Matt-Gleich/texsch-code
@@ -85,7 +85,7 @@
 - name: GraphQL
   logo: graphql
   url: https://graphql.org
-  color: '#000000'
+  color: "#000000"
   projects:
     - url: https://github.com/Matt-Gleich/api
     - url: https://github.com/Matt-Gleich/fgh
@@ -96,25 +96,34 @@
 - name: PostgreSQL
   logo: postgresql
   url: https://postgres.org
-  color: '#336791'
+  color: "#336791"
   projects:
     - url: https://github.com/Matt-Gleich/api
     - url: https://github.com/Matt-Gleich/github_scraper
 
-- name: LaTeX
-  logo: latex
-  url: https://www.latex-project.org/
-  color: '#3D6117'
-  projects:
-    - url: https://github.com/Matt-Gleich/explain-math
-
 - name: Docker
   logo: docker
   url: https://www.docker.com/
-  color: '#4FA1EF'
+  color: "#4FA1EF"
   projects:
     - url: https://github.com/Matt-Gleich/api
     - url: https://github.com/Matt-Gleich/gh_fsync
     - url: https://github.com/Matt-Gleich/Dockerfiles
     - url: https://github.com/Matt-Gleich/profile_stack
     - url: https://github.com/Matt-Gleich/Control-Sense-Hat
+
+- name: LaTeX
+  logo: latex
+  url: https://www.latex-project.org/
+  color: "#3D6117"
+  projects:
+    - url: https://github.com/Matt-Gleich/explain-math
+
+- name: Vim
+  logo: vim
+  url: https://www.vim.org/
+  color: "#019733"
+  projects:
+    - url: https://github.com/Matt-Gleich/dots
+    - url: https://github.com/Matt-Gleich/blackbird.vim
+    - url: https://github.com/Matt-Gleich/monovibrant
