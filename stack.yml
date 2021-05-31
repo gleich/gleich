@@ -126,5 +126,5 @@
   color: "#019733"
   projects:
     - url: https://github.com/Matt-Gleich/dots
-    - url: https://github.com/Matt-Gleich/blackbird.vim
+    - url: https://github.com/blackbirdtheme/vim
     - url: https://github.com/Matt-Gleich/monovibrant
