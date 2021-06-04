@@ -3,22 +3,22 @@
   url: https://golang.org/
   color: "#7FD6EA"
   projects:
-    - url: https://github.com/Matt-Gleich/fgh
-    - url: https://github.com/Matt-Gleich/gh_fsync
-    - url: https://github.com/Matt-Gleich/nuke
-    - url: https://github.com/Matt-Gleich/logoru
-    - url: https://github.com/Matt-Gleich/statuser
-    - url: https://github.com/Matt-Gleich/desktop
-    - url: https://github.com/Matt-Gleich/new_release
-    - url: https://github.com/Matt-Gleich/texsch
-    - url: https://github.com/Matt-Gleich/contrihat
-    - url: https://github.com/Matt-Gleich/clockhat
-    - url: https://github.com/Matt-Gleich/cihat
-    - url: https://github.com/Matt-Gleich/ctree
-    - url: https://github.com/Matt-Gleich/lumber
+    - url: https://github.com/gleich/fgh
+    - url: https://github.com/gleich/gh_fsync
+    - url: https://github.com/gleich/nuke
+    - url: https://github.com/gleich/logoru
+    - url: https://github.com/gleich/statuser
+    - url: https://github.com/gleich/desktop
+    - url: https://github.com/gleich/new_release
+    - url: https://github.com/gleich/texsch
+    - url: https://github.com/gleich/contrihat
+    - url: https://github.com/gleich/clockhat
+    - url: https://github.com/gleich/cihat
+    - url: https://github.com/gleich/ctree
+    - url: https://github.com/gleich/lumber
     - url: https://github.com/hackclub/awesome_hackclub_auto
-    - url: https://github.com/Matt-Gleich/api
-    - url: https://github.com/Matt-Gleich/github_scraper
+    - url: https://github.com/gleich/api
+    - url: https://github.com/gleich/github_scraper
     - url: https://github.com/rootly-io/cli
 
 - name: Python
@@ -26,11 +26,11 @@
   url: https://www.python.org/
   color: "#3C78A9"
   projects:
-    - url: https://github.com/Matt-Gleich/Contribution-Hat
-    - url: https://github.com/Matt-Gleich/RPi-Status
-    - url: https://github.com/Matt-Gleich/Doc-Dockerfiles
-    - url: https://github.com/Matt-Gleich/Quantum-Flip
-    - url: https://github.com/Matt-Gleich/Photo-Sort
+    - url: https://github.com/gleich/Contribution-Hat
+    - url: https://github.com/gleich/RPi-Status
+    - url: https://github.com/gleich/Doc-Dockerfiles
+    - url: https://github.com/gleich/Quantum-Flip
+    - url: https://github.com/gleich/Photo-Sort
     - url: https://github.com/Team-501-The-PowerKnights/Vision2020
     - url: https://github.com/Team-501-The-PowerKnights/Powerknights-Slack-Bot
 
@@ -39,9 +39,9 @@
   url: https://dart.dev/
   color: "#52C0F2"
   projects:
-    - url: https://github.com/Matt-Gleich/Personal-Site-v1
+    - url: https://github.com/gleich/Personal-Site-v1
     - url: https://github.com/fluttercommunity/import_sorter
-    - url: https://github.com/Matt-Gleich/local_google_fonts
+    - url: https://github.com/gleich/local_google_fonts
     - url: https://github.com/banurapp/geist_flutter
 
 - name: Flutter
@@ -49,24 +49,24 @@
   url: https://flutter.dev/
   color: "#52C0F2"
   projects:
-    - url: https://github.com/Matt-Gleich/Personal-Site
+    - url: https://github.com/gleich/Personal-Site
     - url: https://github.com/banurapp/geist_flutter
-    - url: https://github.com/Matt-Gleich/File-Sort
+    - url: https://github.com/gleich/File-Sort
 
 - name: Rust
   logo: rust
   url: https://www.rust-lang.org/
   color: "#DEA584"
   projects:
-    - url: https://github.com/Matt-Gleich/profile_stack
-    - url: https://github.com/Matt-Gleich/auto-shorty
-    - url: https://github.com/Matt-Gleich/rust_template
-    - url: https://github.com/Matt-Gleich/full-tilt-sort
-    - url: https://github.com/Matt-Gleich/resin
-    - url: https://github.com/Matt-Gleich/daily-poll
-    - url: https://github.com/Matt-Gleich/clueprog
+    - url: https://github.com/gleich/profile_stack
+    - url: https://github.com/gleich/auto-shorty
+    - url: https://github.com/gleich/rust_template
+    - url: https://github.com/gleich/full-tilt-sort
+    - url: https://github.com/gleich/resin
+    - url: https://github.com/gleich/daily-poll
+    - url: https://github.com/gleich/clueprog
       wip: true
-    - url: https://github.com/Matt-Gleich/wakavis
+    - url: https://github.com/gleich/wakavis
       wip: true
 
 - name: JS/TS
@@ -74,57 +74,57 @@
   url: https://www.typescriptlang.org/
   color: "#3878C6"
   projects:
-    - url: https://github.com/Matt-Gleich/website
-    - url: https://github.com/Matt-Gleich/texsch-code
-    - url: https://github.com/Matt-Gleich/gleich
+    - url: https://github.com/gleich/website
+    - url: https://github.com/gleich/texsch-code
+    - url: https://github.com/gleich/gleich
       wip: true
-    - url: https://github.com/Matt-Gleich/emoji-clock
+    - url: https://github.com/gleich/emoji-clock
       wip: true
-    - url: https://github.com/Matt-Gleich/React-Translator
-    - url: https://github.com/Matt-Gleich/Extreme-Fib-Calc
+    - url: https://github.com/gleich/React-Translator
+    - url: https://github.com/gleich/Extreme-Fib-Calc
 
 - name: GraphQL
   logo: graphql
   url: https://graphql.org
   color: "#000000"
   projects:
-    - url: https://github.com/Matt-Gleich/api
-    - url: https://github.com/Matt-Gleich/fgh
-    - url: https://github.com/Matt-Gleich/contrihat
-    - url: https://github.com/Matt-Gleich/cihat
-    - url: https://github.com/Matt-Gleich/github_scraper
+    - url: https://github.com/gleich/api
+    - url: https://github.com/gleich/fgh
+    - url: https://github.com/gleich/contrihat
+    - url: https://github.com/gleich/cihat
+    - url: https://github.com/gleich/github_scraper
 
 - name: PostgreSQL
   logo: postgresql
   url: https://postgres.org
   color: "#336791"
   projects:
-    - url: https://github.com/Matt-Gleich/api
-    - url: https://github.com/Matt-Gleich/github_scraper
+    - url: https://github.com/gleich/api
+    - url: https://github.com/gleich/github_scraper
 
 - name: Docker
   logo: docker
   url: https://www.docker.com/
   color: "#4FA1EF"
   projects:
-    - url: https://github.com/Matt-Gleich/api
-    - url: https://github.com/Matt-Gleich/gh_fsync
-    - url: https://github.com/Matt-Gleich/Dockerfiles
-    - url: https://github.com/Matt-Gleich/profile_stack
-    - url: https://github.com/Matt-Gleich/Control-Sense-Hat
+    - url: https://github.com/gleich/api
+    - url: https://github.com/gleich/gh_fsync
+    - url: https://github.com/gleich/Dockerfiles
+    - url: https://github.com/gleich/profile_stack
+    - url: https://github.com/gleich/Control-Sense-Hat
 
 - name: LaTeX
   logo: latex
   url: https://www.latex-project.org/
   color: "#3D6117"
   projects:
-    - url: https://github.com/Matt-Gleich/explain-math
+    - url: https://github.com/gleich/explain-math
 
 - name: Vim
   logo: vim
   url: https://www.vim.org/
   color: "#019733"
   projects:
-    - url: https://github.com/Matt-Gleich/dots
+    - url: https://github.com/gleich/dots
     - url: https://github.com/blackbirdtheme/vim
-    - url: https://github.com/Matt-Gleich/monovibrant
+    - url: https://github.com/gleich/monovibrant
