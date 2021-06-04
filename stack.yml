@@ -32,24 +32,22 @@
     - url: https://github.com/gleich/Quantum-Flip
     - url: https://github.com/gleich/Photo-Sort
     - url: https://github.com/Team-501-The-PowerKnights/Vision2020
-    - url: https://github.com/Team-501-The-PowerKnights/Powerknights-Slack-Bot
 
 - name: Dart
   logo: dart
   url: https://dart.dev/
   color: "#52C0F2"
   projects:
-    - url: https://github.com/gleich/Personal-Site-v1
+    - url: https://github.com/gleich/beta-website
     - url: https://github.com/fluttercommunity/import_sorter
     - url: https://github.com/gleich/local_google_fonts
-    - url: https://github.com/banurapp/geist_flutter
 
 - name: Flutter
   logo: flutter
   url: https://flutter.dev/
   color: "#52C0F2"
   projects:
-    - url: https://github.com/gleich/Personal-Site
+    - url: https://github.com/gleich/beta-website
     - url: https://github.com/banurapp/geist_flutter
     - url: https://github.com/gleich/File-Sort
 
