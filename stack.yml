@@ -74,8 +74,6 @@
   projects:
     - url: https://github.com/gleich/website
     - url: https://github.com/gleich/texsch-code
-    - url: https://github.com/gleich/gleich
-      wip: true
     - url: https://github.com/gleich/emoji-clock
       wip: true
     - url: https://github.com/gleich/React-Translator
