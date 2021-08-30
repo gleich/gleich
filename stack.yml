@@ -62,6 +62,7 @@
     - url: https://github.com/gleich/rust_template
     - url: https://github.com/gleich/full-tilt-sort
     - url: https://github.com/gleich/resin
+    - url: https://github.com/gleich/kiwi
     - url: https://github.com/gleich/daily-poll
     - url: https://github.com/gleich/clueprog
       wip: true
