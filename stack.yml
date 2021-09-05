@@ -21,6 +21,7 @@
     - url: https://github.com/gleich/github_scraper
     - url: https://github.com/rootly-io/cli
     - url: https://github.com/gleich/solar
+    - url: https://github.com/gleich/verpi
 
 - name: Python
   logo: python
@@ -33,6 +34,7 @@
     - url: https://github.com/gleich/Quantum-Flip
     - url: https://github.com/gleich/Photo-Sort
     - url: https://github.com/Team-501-The-PowerKnights/Vision2020
+    - url: https://github.com/gleich/verpi
 
 - name: Dart
   logo: dart
