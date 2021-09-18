@@ -22,6 +22,7 @@
     - url: https://github.com/rootly-io/cli
     - url: https://github.com/gleich/solar
     - url: https://github.com/gleich/verpi
+    - url: https://github.com/gleich/gex_slack
 
 - name: Python
   logo: python
