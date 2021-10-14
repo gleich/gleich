@@ -79,11 +79,9 @@
   color: '#3878C6'
   projects:
     - url: https://github.com/gleich/www
+    - url: https://github.com/gleich/emojicast
+    - url: https://github.com/gleich/vercast
     - url: https://github.com/gleich/texsch-code
-    - url: https://github.com/gleich/emoji-clock
-      wip: true
-    - url: https://github.com/gleich/React-Translator
-    - url: https://github.com/gleich/Extreme-Fib-Calc
 
 - name: GraphQL
   logo: graphql
