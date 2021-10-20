@@ -81,6 +81,7 @@
     - url: https://github.com/gleich/www
     - url: https://github.com/gleich/emojicast
     - url: https://github.com/gleich/vercast
+    - url: https://github.com/gleich/cratecast
     - url: https://github.com/gleich/texsch-code
 
 - name: GraphQL
