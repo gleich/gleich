@@ -62,7 +62,7 @@
   color: '#DEA584'
   projects:
     - url: https://github.com/gleich/profile_stack
-    - url: https://github.com/gleich/auto-shorty
+    - url: https://github.com/gleich/auto_shorty
     - url: https://github.com/gleich/rust_template
     - url: https://github.com/gleich/full-tilt-sort
     - url: https://github.com/gleich/resin
