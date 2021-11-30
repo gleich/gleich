@@ -121,6 +121,7 @@
   color: '#3D6117'
   projects:
     - url: https://github.com/gleich/explain-math
+    - url: https://github.com/gleich/texsci
 
 - name: Vim
   logo: vim
