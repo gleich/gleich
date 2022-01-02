@@ -23,14 +23,15 @@
     - url: https://github.com/gleich/solar
     - url: https://github.com/gleich/verpi
     - url: https://github.com/gleich/gex_slack
+    - url: https://github.com/gleich/new_yearify
 
 - name: Python
   logo: python
   url: https://www.python.org/
   color: '#3C78A9'
   projects:
-    - url: https://github.com/gleich/Contribution-Hat
-    - url: https://github.com/gleich/RPi-Status
+    - url: https://github.com/gleich/eink_countdown
+    - url: https://github.com/gleich/cp_clock
     - url: https://github.com/gleich/Doc-Dockerfiles
     - url: https://github.com/gleich/Quantum-Flip
     - url: https://github.com/gleich/Photo-Sort
