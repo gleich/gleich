@@ -1,10 +1,3 @@
-![card](card.svg)
-
-<div align="center">
-    <br>
-    <img src="https://metrics.lecoq.io/gleich?template=classic&repositories=300&lines=1&achievements=1&isocalendar=1&followup=1&isocalendar.duration=half-year&achievements.threshold=B&achievements.secrets=true&achievements.limit=6&config.timezone=America%2FNew_York">
-</div>
-
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
