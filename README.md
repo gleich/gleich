@@ -1,1 +1,1 @@
-Hey there! I'm Matt Gleich, a developer from Goffstown, New Hampshire. I am a 3rd year Computer Science student from [RIT](https://rit.edu). Outside of programming, I enjoy [cycling](https://www.strava.com/athletes/30124266) and [photography](https://lightroom.adobe.com/shares/e96b417d28384fe7b26b54b8809f5d08)! See more about me on my [personal website](https://mattglei.ch).
+[mattglei.ch](https://mattglei.ch)
